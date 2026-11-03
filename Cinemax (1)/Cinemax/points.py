@@ -9,3 +9,4 @@ def redeem_discount(points, total):
     return total, points
 
 
+a
